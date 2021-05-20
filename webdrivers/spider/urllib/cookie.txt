@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.taobao.com	TRUE	/	FALSE		_tb_token_	e35ef983eb9aa
+.taobao.com	TRUE	/	FALSE		cookie2	1b2661c719d3669cc876753a38c8fc72
+.taobao.com	TRUE	/	FALSE	1573126452	t	72231d276ca19e5722df4fa028ca9c2a
